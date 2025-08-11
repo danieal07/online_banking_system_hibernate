@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  padding: 20px;
+}
+
+.st2, .v1, .mystyle1 {
+  width: 30%;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.v1 {
+  border-left: 6px solid green;
+  border-right: 6px solid green;
+}
